@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Roboto, sans-serif;
+}
+
+    body {
+        text-align: center;
+        margin-top: 220px;
+        background-color: rgb(222, 224, 224);
+    }
+
+    header {
+        margin-bottom: 30px;;
+    }
+
+    input {
+        padding: 8px 5px;
+        font-size: 20px;
+    }
+
+    button {
+        padding: 8px 5px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .decoration {
+        text-decoration: line-through;
+    }
+
+    ul {
+        margin-top: 40px;
+    }
